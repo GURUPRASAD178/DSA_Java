@@ -87,9 +87,6 @@ Contributions are welcome! If you’d like to add more algorithms or improve exi
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License.
 
 ---
 
